@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63884342773",
+    "project_id": "student-registration-sys-3457d",
+    "storage_bucket": "student-registration-sys-3457d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63884342773:android:9942063793d5591f945cbc",
+        "android_client_info": {
+          "package_name": "com.example.xara_stareducation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyMS5reWZtRNmeo769Hu3_gyU7tQy9Nvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
